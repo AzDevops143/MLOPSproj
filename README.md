@@ -2,25 +2,25 @@
 
 ## Setup Instructions
 
-**Prerequisites:**
+Prerequisites:
 - Python 3.11+
 - Docker
-- Kaggle Account (for training)
-- Weights & Biases Account (for tracking)
+- Kaggle Account
+- Weights & Biases Account
 - Hugging Face Account
 
-**Installation:**
+Installation:
 ```bash
 pip install -r requirements.txt
 ```
 
-**Run Inference Locally:**
+Run Inference Locally:
 ```bash
 python src/inference.py
 ```
 
 ## Links
-- **Kaggle Notebooks:** [Link 1] | [Link 2]
-- **Hugging Face Model:** [Model Link]
-- **Docker Image:** [Docker Hub Link]
-- **Weights & Biases Dashboard:** [W&B Link]
+- Kaggle Notebooks: https://www.kaggle.com/code/omshivamnlr/mlposgpp
+- Hugging Face Model: https://huggingface.co/srajam696/mlops-emotion-distilbert
+- Docker Image: [Insert Docker Hub Link]
+- Weights & Biases Dashboard: https://wandb.ai/srajam696-charan/mlops-assignment3/overview

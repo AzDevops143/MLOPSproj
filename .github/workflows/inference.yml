@@ -1,4 +1,3 @@
-# .github/workflows/inference.yml
 name: Inference
 on:
   workflow_dispatch:
