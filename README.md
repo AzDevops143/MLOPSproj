@@ -1,5 +1,5 @@
 # MLOps Group Project
-# Subject Head:-Hardik Jain Sir 
+# Subject Head:-Hardik Jain Sir -MLOPS
 
 ## Setup Instructions
 
