@@ -63,5 +63,5 @@ Model performance was evaluated on the validation split of the dataset. Metrics 
 ## Pipeline Integration
 This model is containerized using Docker for inference and is integrated into a continuous CI/CD pipeline orchestrated via GitHub Actions.
 
-- **GitHub Repository:** [Insert your GitHub Repo Link Here]
-- **W&B Dashboard:** [Insert your W&B Link Here]
+- **GitHub Repository:** https://github.com/AzDevops143/MLOPSproj
+- **W&B Dashboard:** https://wandb.ai/YOUR_WANDB_USERNAME/mlops-assignment3
