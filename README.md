@@ -22,5 +22,5 @@ python src/inference.py
 ## Links
 - Kaggle Notebooks: https://www.kaggle.com/code/omshivamnlr/mlposgpp
 - Hugging Face Model: https://huggingface.co/srajam696/mlops-emotion-distilbert
-- Docker Image: https://hub.docker.com/r/srajam696/mlops-a3-inference
+- Docker Image: https://hub.docker.com/r/charanteiitj/mlops-a3-inference
 - Weights & Biases Dashboard: https://wandb.ai/srajam696-charan/mlops-assignment3/overview
